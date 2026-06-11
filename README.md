@@ -82,7 +82,7 @@
 
 <p align="center">
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD/fork" target="_blank">
-    <img src="https://img.shields.io/badge/FORK-ALI%20MD-BOT?color=F5A623&style=for-the-badge&logo=stackshare&labelColor=1a1100"/>
+    <img src="https://img.shields.io/badge/FORK-ADEEL%20MD-BOT?color=F5A623&style=for-the-badge&logo=stackshare&labelColor=1a1100"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Adeel-Xtech/ADEEL-MD" target="_blank">
